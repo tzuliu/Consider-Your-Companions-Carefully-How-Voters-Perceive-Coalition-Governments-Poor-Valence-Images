@@ -1,6 +1,6 @@
 # Consider-Your-Companions-Carefully-How-Voters-Perceive-Coalition-Governments-Poor-Valence-Images
 
-## This repository contains:
+## About this project:
 
 1. The **IRB approval number** is: 1121359-1
 
